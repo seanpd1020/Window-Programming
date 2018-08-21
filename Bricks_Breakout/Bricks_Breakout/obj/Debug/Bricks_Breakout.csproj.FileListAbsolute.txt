@@ -1,0 +1,9 @@
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\bin\Debug\Bricks_Breakout.exe.config
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\bin\Debug\Bricks_Breakout.exe
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\bin\Debug\Bricks_Breakout.pdb
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\obj\Debug\Bricks_Breakout.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\obj\Debug\Bricks_Breakout.Form1.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\obj\Debug\Bricks_Breakout.Properties.Resources.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\obj\Debug\Bricks_Breakout.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\obj\Debug\Bricks_Breakout.exe
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Bricks_Breakout\Bricks_Breakout\obj\Debug\Bricks_Breakout.pdb
