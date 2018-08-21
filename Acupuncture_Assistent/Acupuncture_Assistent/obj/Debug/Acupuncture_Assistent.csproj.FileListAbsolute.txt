@@ -1,0 +1,17 @@
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\bin\Debug\Acupuncture_Assistent.exe.config
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\bin\Debug\Acupuncture_Assistent.exe
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\bin\Debug\Acupuncture_Assistent.pdb
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\bin\Debug\Newtonsoft.Json.dll
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\bin\Debug\Newtonsoft.Json.xml
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.csprojResolveAssemblyReference.cache
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.Form1.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.Properties.Resources.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.csproj.GenerateResource.Cache
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.exe
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.pdb
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.Form2.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.Form3.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.Form4.resources
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Interop.SpeechLib.dll
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\obj\Debug\Acupuncture_Assistent.csproj.ResolveComReference.cache
+C:\Users\User\Desktop\資訊課程\視窗程式設計\Practice\Acupuncture_Assistent\Acupuncture_Assistent\bin\Debug\Interop.SpeechLib.dll
